@@ -19,7 +19,7 @@ The **Ola Electric** is India's largest electric two-wheeler manufacturer, with 
 | **Company Name**       | Ola Electric Mobility Ltd. |
 | **Sector**            | Automobile and Ancillary  |
 | **Established**       | 2017                      |
-| **Website**           | www.olaelectric.com |
+| **Website**           | olaelectric.com |
 | **Listing At**        | NSE                       |
 | **BSE Code**          | -                         |
 | **NSE Code**          | OLAELEC                   |
